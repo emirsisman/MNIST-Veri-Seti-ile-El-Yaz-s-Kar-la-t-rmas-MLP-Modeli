@@ -170,17 +170,13 @@ Sonuç olarak temel MLP mimarisinin MNIST veri setinde başarılı sonuçlar ver
 - OpenCV
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- Jupyter Notebook (Vs Code)
 
 ## 10. Projenin Çalıştırılması
 
 Gerekli paketleri yüklemek için:
 
 `pip install -r requirements.txt`
-
-Jupyter Notebook'u başlatmak için:
-
-`jupyter notebook`
 
 Notebook dosyaları:
 
